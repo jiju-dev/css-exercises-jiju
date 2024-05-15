@@ -1,0 +1,16 @@
+/* styles.css */
+.click1,
+.click2 {
+    font-family:  Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px
+}
+
+.click1 {
+    color: hsl(0,0%,100%);
+    background-color: hsl(0,0%,0%);
+    font-weight: bold
+}
+
+.click2 {
+    background-color: hsl(60,100%,50%);
+}
